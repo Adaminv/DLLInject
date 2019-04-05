@@ -1,0 +1,10 @@
+C:\Users\shriadam636.SPED-3380-629\source\repos\Serenity injector\Serenity injector\bin\x64\Debug\Serenity injector.exe.config
+C:\Users\shriadam636.SPED-3380-629\source\repos\Serenity injector\Serenity injector\bin\x64\Debug\Serenity injector.exe
+C:\Users\shriadam636.SPED-3380-629\source\repos\Serenity injector\Serenity injector\bin\x64\Debug\Serenity injector.pdb
+C:\Users\shriadam636.SPED-3380-629\source\repos\Serenity injector\Serenity injector\bin\x64\Debug\Memory.dll
+C:\Users\shriadam636.SPED-3380-629\source\repos\Serenity injector\Serenity injector\bin\x64\Debug\Memory.xml
+C:\Users\shriadam636.SPED-3380-629\source\repos\Serenity injector\Serenity injector\obj\x64\Debug\Serenity injector.csprojAssemblyReference.cache
+C:\Users\shriadam636.SPED-3380-629\source\repos\Serenity injector\Serenity injector\obj\x64\Debug\Serenity injector.csproj.CoreCompileInputs.cache
+C:\Users\shriadam636.SPED-3380-629\source\repos\Serenity injector\Serenity injector\obj\x64\Debug\Serenity injector.csproj.CopyComplete
+C:\Users\shriadam636.SPED-3380-629\source\repos\Serenity injector\Serenity injector\obj\x64\Debug\Serenity injector.exe
+C:\Users\shriadam636.SPED-3380-629\source\repos\Serenity injector\Serenity injector\obj\x64\Debug\Serenity injector.pdb
